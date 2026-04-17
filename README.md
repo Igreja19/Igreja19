@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Fábio%20Ferreira&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Go%20•%20Vue%203%20•%20TypeScript&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Fábio%Igreja&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Go%20•%20Vue%203%20•%20TypeScript&descAlignY=55&descSize=16"/>
 </div>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabio-ferreira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fabioigreja/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Portugal-🇵🇹-006600?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=Igreja19&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
@@ -42,7 +42,6 @@ Desenvolvedor Full Stack focado em construir sistemas **robustos, escaláveis e 
 ### Tooling & Infra
 ![Linux](https://img.shields.io/badge/WSL%202-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -109,7 +108,7 @@ type Developer struct {
 
 func main() {
     me := Developer{
-        Name: "Fábio Ferreira",
+        Name: "Fábio Igreja",
         Principles: []string{
             "Clean architecture over cleverness",
             "Context is king — document the why, not the what",
