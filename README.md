@@ -10,7 +10,6 @@
   <a href="mailto:fabioigreja2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="tel:+351915101227"><img src="https://img.shields.io/badge/Whatszapp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Leiria-Portugal%20🇵🇹-006600?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Igreja19&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
@@ -74,8 +73,8 @@ Hoje trabalho em projetos profissionais em **Go + Vue 3 + PostgreSQL** (SaaS pro
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Igreja19&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igreja19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-red-two.vercel.app/api?username=Igreja19&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats-red-two.vercel.app/api/top-langs/?username=Igreja19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
@@ -102,6 +101,7 @@ Hoje trabalho em projetos profissionais em **Go + Vue 3 + PostgreSQL** (SaaS pro
 Estou sempre aberto a novas oportunidades, colaborações, ou uma conversa amigável.
 
 <a href="mailto:fabioigreja2005@gmail.com"><img src="https://img.shields.io/badge/fabioigreja2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Igreja19&label=Profile%20views&color=0e75b6&style=flat-square" />
 <a href="tel:+351915101227"><img src="https://img.shields.io/badge/+Whatszapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <sub>📍 Rua 1º de Maio Marinheiros — Leiria</sub>
