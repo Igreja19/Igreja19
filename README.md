@@ -22,8 +22,8 @@ Hoje trabalho em projetos profissionais em **Go + Vue 3 + PostgreSQL** (SaaS pro
 
 <table>
   <tr>
-    <td align="center"><strong>5</strong><br/><sub>Anos de experiência</sub></td>
-    <td align="center"><strong>60</strong><br/><sub>Projetos concluídos</sub></td>
+    <td align="center"><strong>+5</strong><br/><sub>Anos de experiência</sub></td>
+    <td align="center"><strong>+60</strong><br/><sub>Projetos concluídos</sub></td>
     <td align="center"><strong>17</strong><br/><sub>Tecnologias dominadas</sub></td>
     <td align="center"><strong>437+</strong><br/><sub>Cafés consumidos ☕</sub></td>
   </tr>
