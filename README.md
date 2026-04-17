@@ -1,16 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Fábio%20Igreja&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Leiria,%20Portugal%20🇵🇹&descAlignY=58&descSize=16"/>
-</div>
+  
+  <br>
 
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;From+bypassing+GTA+limits+to+building+real+systems;PHP+%7C+Java+%7C+Go+%7C+Vue+3+%7C+PostgreSQL;Always+shipping%2C+always+learning" alt="Typing SVG" />
-</p>
+  
+  <br>
 
-<p align="center">
-  <a href="mailto:fabioigreja2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+351915101227"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Leiria-Portugal%20🇵🇹-006600?style=flat-square" />
-</p>
+  <a href="mailto:fabioigreja2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+351915101227"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Leiria-Portugal%20🇵🇹-006600?style=for-the-badge" />
+</div>
 
 ---
 
@@ -22,8 +22,8 @@ Hoje trabalho em projetos profissionais em **Go + Vue 3 + PostgreSQL** (SaaS pro
 
 <table>
   <tr>
-    <td align="center"><strong>+5</strong><br/><sub>Anos de experiência</sub></td>
-    <td align="center"><strong>+60</strong><br/><sub>Projetos concluídos</sub></td>
+    <td align="center"><strong>5+</strong><br/><sub>Anos de experiência</sub></td>
+    <td align="center"><strong>60</strong><br/><sub>Projetos concluídos</sub></td>
     <td align="center"><strong>17</strong><br/><sub>Tecnologias dominadas</sub></td>
     <td align="center"><strong>437+</strong><br/><sub>Cafés consumidos ☕</sub></td>
   </tr>
@@ -68,7 +68,7 @@ Hoje trabalho em projetos profissionais em **Go + Vue 3 + PostgreSQL** (SaaS pro
 
 </div>
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -101,7 +101,7 @@ Hoje trabalho em projetos profissionais em **Go + Vue 3 + PostgreSQL** (SaaS pro
 Estou sempre aberto a novas oportunidades, colaborações, ou uma conversa amigável.
 
 <a href="mailto:fabioigreja2005@gmail.com"><img src="https://img.shields.io/badge/fabioigreja2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+351915101227"><img src="https://img.shields.io/badge/+Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="tel:+351915101227"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://igreja19.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-0A0A0A?style=for-the-badge&logoColor=white" /></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Igreja19&label=Profile%20views&color=0e75b6&style=flat-square" />
