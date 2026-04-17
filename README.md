@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:fabioigreja2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+351915101227"><img src="https://img.shields.io/badge/Whatszapp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="tel:+351915101227"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Leiria-Portugal%20🇵🇹-006600?style=flat-square" />
 </p>
 
@@ -101,7 +101,9 @@ Hoje trabalho em projetos profissionais em **Go + Vue 3 + PostgreSQL** (SaaS pro
 Estou sempre aberto a novas oportunidades, colaborações, ou uma conversa amigável.
 
 <a href="mailto:fabioigreja2005@gmail.com"><img src="https://img.shields.io/badge/fabioigreja2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+351915101227"><img src="https://img.shields.io/badge/+Whatszapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><br>
+<a href="tel:+351915101227"><img src="https://img.shields.io/badge/+Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://igreja19.github.io/Portofolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-0A0A0A?style=for-the-badge&logoColor=white" /></a>
+<br>
 <img src="https://komarev.com/ghpvc/?username=Igreja19&label=Profile%20views&color=0e75b6&style=flat-square" />
 
 <sub>📍 Rua 1º de Maio Marinheiros — Leiria</sub>
